@@ -1,0 +1,342 @@
+[
+    {
+        "id": "bio_overview",
+        "category": "Personal Information",
+        "content": "Muhammad Tayyab is a Full Stack Developer and AI/ML Enthusiast. He is a final year (8th semester) Computer Science student at FAST National University of Computer and Emerging Sciences (NUCES), Lahore, Pakistan. He is originally from Lahore. He is passionate about building innovative web applications and exploring the frontiers of Artificial Intelligence, Natural Language Processing, and Machine Learning. He transforms ideas into elegant, scalable solutions. He believes in writing clean, maintainable code and creating user experiences that delight."
+    },
+    {
+        "id": "contact_info",
+        "category": "Contact Information",
+        "content": "Muhammad Tayyab's email address is tayyabshabaz1234@gmail.com. He is located in Lahore, Pakistan. His LinkedIn profile is at http://linkedin.com/in/muhammad-tayyab-97059826b and his Instagram is https://www.instagram.com/t_a_y_y_y_a_b. He is currently studying at FAST NUCES, Lahore campus."
+    },
+    {
+        "id": "education_bscs",
+        "category": "Education",
+        "content": "Muhammad Tayyab is pursuing a Bachelor of Science in Computer Science (BSCS) from FAST National University of Computer and Emerging Sciences (NUCES), Lahore. The program duration is from 2022 to 2026. He is currently in his final semester (8th semester). FAST NUCES is one of Pakistan's most prestigious and premier universities for technology and computer science education."
+    },
+    {
+        "id": "education_intermediate",
+        "category": "Education",
+        "content": "Muhammad Tayyab completed his Intermediate education (FSc Pre-Engineering) from KIPS College, Lahore. This was completed before he enrolled at FAST NUCES in 2022."
+    },
+    {
+        "id": "skills_programming",
+        "category": "Technical Skills",
+        "content": "Muhammad Tayyab's programming language skills include C++, Python, JavaScript, and SQL. He uses C++ for data structure implementations and algorithm design. He uses Python for AI/ML model training, NLP, and data processing. JavaScript is his primary language for full-stack web development. He uses SQL and Oracle SQL for database design and management."
+    },
+    {
+        "id": "skills_web_dev",
+        "category": "Technical Skills",
+        "content": "Muhammad Tayyab specializes in MERN stack web development. His web development skills include React.js for building user interfaces, Node.js for backend server development, Express.js for creating REST APIs, MongoDB for NoSQL database management, and HTML/CSS for frontend structure and styling. He has extensive experience building full-stack web applications using these technologies."
+    },
+    {
+        "id": "skills_ai_ml",
+        "category": "Technical Skills",
+        "content": "Muhammad Tayyab has strong skills in AI and Machine Learning. His AI/ML skills include Natural Language Processing (NLP), Large Language Model (LLM) fine-tuning, working with Transformer architectures, model training and evaluation, building chatbots, and performing sentiment analysis. He has hands-on experience fine-tuning GPT models and building intelligent AI-powered applications."
+    },
+    {
+        "id": "skills_core_cs",
+        "category": "Technical Skills",
+        "content": "Muhammad Tayyab has a strong foundation in core Computer Science concepts including Data Structures (linked lists, stacks, hash tables, trees), Object-Oriented Programming (OOP) with concepts like inheritance, encapsulation, and polymorphism, Algorithms design and analysis, and Database Design."
+    },
+    {
+        "id": "skills_tools",
+        "category": "Technical Skills",
+        "content": "Muhammad Tayyab is proficient with various development tools and technologies including Git and GitHub for version control, Oracle SQL for database management, VS Code as his primary code editor, and Data Scraping techniques for web data extraction."
+    },
+    {
+        "id": "skills_languages",
+        "category": "Languages",
+        "content": "Muhammad Tayyab speaks two languages. English at a professional proficiency level and Urdu as his native language."
+    },
+    {
+        "id": "project_fyp",
+        "category": "Projects",
+        "content": "Muhammad Tayyab's Final Year Project (FYP) is called 'Smart Scrum Assistant'. It is an intelligent project management tool designed for software houses. The key feature is AI-powered conversion of raw client requirements into properly formatted user stories using a fine-tuned GPT model. It also includes automatic developer assignment based on expertise and real-time progress tracking for sprints and tasks. The technologies used are React, Node.js, MongoDB, GPT Fine-tuning, NLP, and AI. This is his most important and featured project."
+    },
+    {
+        "id": "project_crypto",
+        "category": "Projects",
+        "content": "Muhammad Tayyab built the 'Decentralized Asset Receiver', a web-based platform that addresses the problem of 'dead' cryptocurrency wallets. Users can securely store wallet keys and add beneficiary emails for seamless asset transfer when wallets become inactive. The project has planned blockchain integration for complete transparency and security. Technologies used include React, Node.js, MongoDB, Blockchain concepts, and Security."
+    },
+    {
+        "id": "project_medcom",
+        "category": "Projects",
+        "content": "Muhammad Tayyab built 'MedCom - Medical Facility Provider' as a Web Development course project. It is a comprehensive e-commerce platform enabling medical companies to sell products directly to customers. Features include genuine product verification, competitive pricing, and doorstep delivery convenience. Technologies used include HTML, CSS, JavaScript, Node.js, and MongoDB."
+    },
+    {
+        "id": "project_ai_ml",
+        "category": "Projects",
+        "content": "Muhammad Tayyab has completed multiple AI/ML Model Training Projects as academic projects. These include Sentiment Analysis models for analyzing text emotions, Chatbot development for conversational AI, and Sentence Completion systems. These projects use transformer architectures and LLM fine-tuning techniques. Technologies used include Python, Transformers, NLP, LLM, and Fine-tuning."
+    },
+    {
+        "id": "project_github_clone",
+        "category": "Projects",
+        "content": "Muhammad Tayyab built a 'GitHub Clone' as a Data Structures course project. It is a lightweight GitHub-inspired platform designed using custom data structures such as linked lists, stacks, and hash tables. It demonstrates practical application of data structures for version control functionality. Technologies used include C++ and custom Data Structures."
+    },
+    {
+        "id": "project_balloting",
+        "category": "Projects",
+        "content": "Muhammad Tayyab built a 'Balloting System' as an Object-Oriented Programming (OOP) course project. It is an object-oriented application simulating a real-world balloting system for secure ballot casting. It was developed using OOP concepts such as classes, inheritance, encapsulation, and polymorphism. Technologies used include C++ and OOP principles."
+    },
+    {
+        "id": "project_game",
+        "category": "Projects",
+        "content": "Muhammad Tayyab built an 'Endless Runner Game' as a Programming Fundamentals course project. It is a fun 2D game developed using fundamental programming concepts such as loops, conditionals, and basic file handling. The game challenges users to avoid obstacles and achieve high scores. Technologies used include C++, game development basics, and file handling."
+    },
+    {
+        "id": "achievement_tedx",
+        "category": "Achievements & Leadership",
+        "content": "Muhammad Tayyab was part of the Management Team for TEDx FAST 2025. He participated in organizing and managing the TEDx event at FAST NUCES, coordinating with speakers, attendees, and ensuring smooth event execution. This demonstrates his leadership and event management capabilities."
+    },
+    {
+        "id": "achievement_jobfair_2025",
+        "category": "Achievements & Leadership",
+        "content": "Muhammad Tayyab was part of the Management Team for FAST Job Fair 2025. He actively contributed to the management, helping connect students with potential employers and facilitating career opportunities."
+    },
+    {
+        "id": "achievement_jobfair_2023",
+        "category": "Achievements & Leadership",
+        "content": "Muhammad Tayyab was part of the Management Team for FAST Job Fair 2023. He was on the organizing committee, managing logistics and ensuring the successful execution of the event."
+    },
+    {
+        "id": "achievement_daira",
+        "category": "Achievements & Leadership",
+        "content": "Muhammad Tayyab was part of the Management Committee for FAST Daira in 2024. FAST Daira is the flagship national olympiad of the university. He coordinated with participants from different universities across Pakistan for gaming and coding competitions."
+    },
+    {
+        "id": "achievement_technical",
+        "category": "Achievements & Leadership",
+        "content": "Muhammad Tayyab's technical achievements include: Developing multiple ML models including sentiment analysis, chatbots, and sentence completion systems (2024-2025). Building multiple full-stack applications using MERN stack (2023-2025). Designing architecture for blockchain integration in the Decentralized Asset Receiver project (2025). He has completed 7+ projects, managed 4+ events, and has spent 4 years at FAST NUCES."
+    },
+    {
+        "id": "personality_drive",
+        "category": "Personal Values",
+        "content": "Muhammad Tayyab believes in the power of technology to transform lives and solve real-world problems. His journey in computer science has been driven by curiosity, a desire to innovate, and a commitment to continuous learning. From managing large-scale university events to building AI-powered applications, he strives to make a meaningful impact in everything he does. He is always open to discussing new projects, creative ideas, or opportunities to be part of someone's vision."
+    },
+    {
+        "id": "specialization",
+        "category": "Specialization",
+        "content": "Muhammad Tayyab's primary specializations are MERN Stack Full-Stack Web Development and AI/ML with a focus on NLP and LLM fine-tuning. He combines these two areas by building intelligent web applications that leverage AI capabilities. For example, his FYP 'Smart Scrum Assistant' integrates GPT fine-tuned models within a full-stack MERN application for intelligent project management."
+    },
+    {
+        "id": "academics_cgpa",
+        "category": "Academics",
+        "content": "Muhammad Tayyab's current CGPA is 2.7 out of 4.0. While his GPA reflects a balanced approach between academics and hands-on project work, his real strength lies in practical implementation and building real-world applications. He has consistently prioritized gaining industry-relevant skills through projects, hackathons, and event leadership alongside his coursework."
+    },
+    {
+        "id": "work_experience_nexium",
+        "category": "Work Experience",
+        "content": "Muhammad Tayyab completed a 3-month professional internship at Nexium, a startup company based at FAST NUCES Lahore. Nexium is a student-founded startup where Tayyab gained hands-on industry experience working in a fast-paced startup environment. This internship gave him exposure to real-world software development workflows, team collaboration, and delivering products under tight deadlines. For more details about his professional experience, you can visit his LinkedIn profile at http://linkedin.com/in/muhammad-tayyab-97059826b."
+    },
+    {
+        "id": "job_availability",
+        "category": "Career & Employment",
+        "content": "Muhammad Tayyab is actively open to job opportunities and new positions. He is currently looking for roles in Full Stack Web Development, AI/ML Engineering, or any related software engineering positions. He is enthusiastic about joining a team where he can contribute his skills and grow professionally. If you have an opportunity to discuss, feel free to reach out to him at tayyabshabaz1234@gmail.com or through his LinkedIn."
+    },
+    {
+        "id": "salary_expectations",
+        "category": "Career & Employment",
+        "content": "Muhammad Tayyab's expected starting salary is 110,000 PKR per month. This reflects his skill set as a Full Stack Developer with AI/ML experience, his work experience at Nexium startup, and his strong project portfolio. He is open to discussing compensation packages based on the role, responsibilities, and growth opportunities offered."
+    },
+    {
+        "id": "ai_experience_detailed",
+        "category": "Technical Experience",
+        "content": "Muhammad Tayyab has hands-on experience with a wide range of AI/ML technologies. His practical experience includes AI model fine-tuning (specifically GPT and LLM models), building Retrieval-Augmented Generation (RAG) based systems, object detection models, NLP pipelines, and transformer architectures. He has worked on real projects using these technologies, not just academic exercises. For a detailed look at his AI/ML work and endorsements, you can check his LinkedIn profile at http://linkedin.com/in/muhammad-tayyab-97059826b."
+    },
+    {
+        "id": "location_availability",
+        "category": "Location & Availability",
+        "content": "Muhammad Tayyab is based in Model Town, Lahore, Pakistan. He is readily available for on-site positions within Lahore and can commute easily across the city. He is also completely flexible with work schedules — he has no restrictions regarding day shifts, night shifts, or rotational timings. He is comfortable working across different time zones if required for remote or hybrid positions. For on-site roles in Lahore, he can be available with minimal commute time."
+    },
+    {
+        "id": "address",
+        "category": "Personal Information",
+        "content": "Muhammad Tayyab resides in Model Town, Lahore, Pakistan. Model Town is a well-connected residential area in central Lahore, making it convenient for commuting to workplaces across the city."
+    },
+    {
+        "id": "hobbies_reading",
+        "category": "Hobbies & Interests",
+        "content": "Muhammad Tayyab is an avid reader with a strong interest in entrepreneurship, personal finance, and self-improvement literature. His favorite books include: 'The $100 Startup' by Chris Guillebeau, 'The Psychology of Money' by Morgan Housel, 'The 4-Hour Workweek' by Timothy Ferriss, 'The Lean Startup' by Eric Ries, 'Zero to One' by Peter Thiel, and 'Atomic Habits' by James Clear. These books reflect his entrepreneurial mindset and his belief in continuous self-improvement and building things from scratch."
+    },
+    {
+        "id": "hobbies_general",
+        "category": "Hobbies & Interests",
+        "content": "Muhammad Tayyab's hobbies and interests include exploring new and emerging technologies, building innovative side projects and applications, deep-diving into AI/ML and Blockchain technologies, reading books on entrepreneurship and personal development, following and analyzing stock markets, and staying up-to-date with the latest trends in the tech industry. He is a curious learner who is always looking for the next exciting technology to master."
+    },
+    {
+        "id": "family",
+        "category": "Personal Information",
+        "content": "Muhammad Tayyab comes from a close-knit family in Lahore. He has one brother and one sister. He values family and maintains a balanced life between his academic/professional pursuits and personal relationships."
+    },
+    {
+        "id": "personal_philosophy",
+        "category": "Personal Values",
+        "content": "Muhammad Tayyab has a deeply independent and self-reliant personality. He values self-sufficiency and believes in carving his own path. He prefers to focus on his goals, his craft, and his personal growth rather than depending on others. His philosophy is rooted in the idea that true success comes from within — through discipline, hard work, and continuous learning. He is a focused individual who channels his energy into building meaningful things."
+    },
+    {
+        "id": "fun_personal",
+        "category": "Fun & Personal",
+        "content": "On a lighter note, Muhammad Tayyab humorously claims that he is happily 'married' to the Pakistani actress Hania Amir — she is his wife, and therefore he is no longer available! Of course, this is his playful way of saying that he's fully focused on his career and goals right now. Behind the serious developer is someone who enjoys a good laugh and doesn't take himself too seriously."
+    },
+    {
+        "id": "graduation_date",
+        "category": "Education",
+        "content": "Muhammad Tayyab's expected graduation date is June 2026. He is currently in his final (8th) semester of his Bachelor of Science in Computer Science degree at FAST National University of Computer and Emerging Sciences (NUCES), Lahore. He will be graduating as part of the Class of 2026 and is actively seeking full-time employment opportunities starting from June/July 2026."
+    },
+    {
+        "id": "nexium_role_detailed",
+        "category": "Work Experience",
+        "content": "Muhammad Tayyab completed a 3-month internship at Nexium — a student-founded startup based at FAST NUCES Lahore — from June 2025 to August 2025. He interned as a Full Stack Developer. His responsibilities included building full-stack web applications and working with n8n workflow automation to create automated pipelines. One of his notable projects at Nexium was a CV/Resume Enhanced Builder, an intelligent tool that helps users create polished, professional resumes. He also contributed to multiple other projects at the startup. This internship gave him hands-on industry experience with real-world product development, workflow automation, agile practices, and shipping features in a fast-paced startup environment."
+    },
+    {
+        "id": "github_profile",
+        "category": "Contact Information",
+        "content": "Muhammad Tayyab's GitHub profile is available at https://github.com/discoverthegithub. You can explore his repositories, open-source contributions, and project code there. His GitHub showcases his work in MERN stack development, AI/ML projects, and various academic and personal projects."
+    },
+    {
+        "id": "courses_year1",
+        "category": "Academic Courses",
+        "content": "During his first year (Semesters 1-2) of the BS Computer Science program at FAST NUCES, Muhammad Tayyab completed the following foundational courses: Introduction to Information and Communication Technology, Programming Fundamentals (with Lab), Digital Logic Design (with Lab), Linear Algebra, Calculus and Analytical Geometry, Applied Physics, English Composition and Comprehension (with Lab), Islamic Studies/Ethics, and Pakistan Studies. These courses built his strong foundation in mathematics, physics, and basic programming."
+    },
+    {
+        "id": "courses_year2",
+        "category": "Academic Courses",
+        "content": "During his second year (Semesters 3-4) at FAST NUCES, Muhammad Tayyab completed the following courses: Object Oriented Programming (with Lab), Discrete Structures, Computer Organization and Assembly Language (with Lab), Communication and Presentation Skills (with Lab), Data Structures (with Lab), Differential Equations, Numerical Computing, Probability and Statistics, Marketing Management, and Psychology. These courses deepened his understanding of core programming paradigms, computer architecture, and mathematical foundations."
+    },
+    {
+        "id": "courses_year3",
+        "category": "Academic Courses",
+        "content": "During his third year (Semesters 5-6) at FAST NUCES, Muhammad Tayyab completed the following advanced courses: Database Systems (with Lab), Operating Systems (with Lab), Design and Analysis of Algorithms, Software Design and Analysis, Theory of Automata, Technical and Business Writing, and Artificial Intelligence. These senior-level courses gave him expertise in system-level programming, advanced algorithms, database management, and AI — which directly influenced his specialization in AI/ML and full-stack development."
+    },
+    {
+        "id": "courses_overview",
+        "category": "Academic Courses",
+        "content": "Throughout his BS Computer Science program at FAST NUCES Lahore, Muhammad Tayyab has completed 35 courses spanning programming, mathematics, systems, AI, databases, and professional skills. Key technical courses include Programming Fundamentals, Object Oriented Programming, Data Structures, Database Systems, Operating Systems, Design and Analysis of Algorithms, Software Design and Analysis, Theory of Automata, and Artificial Intelligence. This comprehensive curriculum has given him a well-rounded computer science education from one of Pakistan's top universities."
+    },
+    {
+        "id": "career_goals",
+        "category": "Career Goals & Vision",
+        "content": "Muhammad Tayyab has a powerful and inspiring long-term vision. In the next 4-5 years, he sees himself leading companies that don't just create products, but truly change lives. His mission is to provide people around the world with access to education — both technical and theoretical — so they can build skills, earn a living, and create opportunities for themselves. He dreams of a world where AI and technology make healthcare affordable, accessible, and compassionate, where no one is left behind due to cost or circumstance. Everything he does is driven by a single goal: to serve humanity, share knowledge, resources, and opportunities, and empower people to live with dignity, hope, and freedom."
+    },
+    {
+        "id": "why_hire_me",
+        "category": "FAQ",
+        "content": "Why should you hire Muhammad Tayyab? Because he brings a strong foundation in software development with hands-on experience in the MERN stack (React.js, Node.js, Express.js, MongoDB), Python, AI/ML technologies including LLM fine-tuning, RAG systems, NLP, object detection, and workflow automation with n8n. He has a proven ability to learn and adapt quickly — going from academic projects to building real products at the Nexium startup. He enjoys solving challenging problems and building solutions that make a real difference. He has led and managed large-scale university events like TEDx FAST and FAST Job Fairs, demonstrating strong leadership, communication, and organizational skills. What makes him unique is his rare combination of full-stack development expertise and AI/ML engineering skills — he doesn't just build apps, he builds intelligent apps. He is motivated to contribute to your team, help your company achieve its goals, and grow professionally alongside your organization."
+    },
+    {
+        "id": "hostel_life",
+        "category": "University Life",
+        "content": "Yes, Muhammad Tayyab is a hostelite (boarding student). He spent all 4 years of his university life living in the FAST NUCES Lahore hostel. The hostel experience shaped his independence, discipline, and ability to thrive in collaborative environments. He shared his room with six amazing roommates who became like family over the years: Abdullah Asif, Rahim Nasir, Hamza Iftikhar, Mautasim Billah, Umar Shah (fondly known as 'The Great Presi'), and Abubakar Gill (affectionately called 'Jutt Sahab'). Living in the hostel for four years taught him teamwork, adaptability, time management, and the art of thriving in a close-knit community away from home."
+    },
+    {
+        "id": "job_preference",
+        "category": "Career & Employment",
+        "content": "Muhammad Tayyab is looking for companies that offer an intrapreneurship environment — a place where he can take ownership of his work, build things with autonomy, and feel like he's creating something meaningful rather than being just another employee. He values environments where initiative is rewarded, creativity is encouraged, and team members are empowered to innovate. It doesn't matter if it's a startup or an established, well-renowned company — what matters is the culture of ownership, growth, and impact. He wants to work somewhere he can see himself thriving as a builder and a leader, not just following instructions."
+    },
+    {
+        "id": "relationship_status",
+        "category": "Fun & Personal",
+        "content": "When asked about his relationship status, girlfriend, or crush, Muhammad Tayyab proudly and humorously declares that he is happily 'married' to the stunning Pakistani actress Hania Amir — she's his wife, and he is officially off the market! So no, he is not available. All jokes aside, Tayyab prefers to keep his personal life private and channels his energy into his career, projects, and personal growth."
+    },
+    {
+        "id": "fyp_detailed_overview",
+        "category": "Projects - FYP Deep Dive",
+        "content": "Muhammad Tayyab's Final Year Project is called 'AI Smart Scrum Pro' — an intelligent, AI-powered Scrum Project Management Platform built on the MERN stack with a custom fine-tuned NLP model for automated user story generation. It is a comprehensive, role-based Agile/Scrum project management web application that leverages Artificial Intelligence to automate and enhance the software development lifecycle. The platform serves four distinct user roles — Client, Project Lead, Scrum Master, and Developer — each with tailored dashboards, workflows, and permissions. This is his strongest project, his favorite project, and his most impressive work."
+    },
+    {
+        "id": "fyp_ai_model",
+        "category": "Projects - FYP Deep Dive",
+        "content": "The standout feature of Tayyab's FYP is a custom fine-tuned FLAN-T5 (Google) NLP model with LoRA (Low-Rank Adaptation) adapters that automatically converts raw client requirements into structured User Stories and Module Breakdowns. The base model is google/flan-t5-base (Sequence-to-Sequence Transformer), fine-tuned using LoRA via HuggingFace PEFT library with PyTorch. The model takes raw client requirement text as input and outputs structured user stories in the format 'As a [role], I want [feature], so that [benefit]' along with acceptance criteria, priority levels, and module breakdowns. Generation parameters include max_length=512, temperature=0.7, top_p=0.92, and repetition_penalty=1.1. This is NOT a pre-built API call — it's a custom-trained model, which is a key differentiator."
+    },
+    {
+        "id": "fyp_problem_statement",
+        "category": "Projects - FYP Deep Dive",
+        "content": "The AI Smart Scrum Pro FYP addresses major gaps in traditional Scrum tools like Jira, Trello, and Azure DevOps. These existing tools require manual conversion of client requirements into user stories (time-consuming and error-prone), need separate tools for different Scrum activities, have no AI-driven developer recommendation or progress prediction, and have limited role-based workflows. Tayyab's platform solves all these problems by providing a unified, AI-enhanced platform that automates requirement analysis, recommends developers based on skills and performance, monitors progress with health scores, and manages the full Scrum lifecycle in one place."
+    },
+    {
+        "id": "fyp_tech_stack",
+        "category": "Projects - FYP Deep Dive",
+        "content": "The FYP tech stack is extensive. Frontend: React 19.2.0, Vite 6.4.1, React Router DOM 7, TailwindCSS 3.4.18, Framer Motion, Recharts (charts), Material-UI, Lucide React (icons), Axios, React Hook Form, React Toastify, drag-and-drop libraries, jsPDF and xlsx for report exports, mammoth and pdfjs-dist for document parsing. Backend: Node.js, Express.js, MongoDB with Mongoose, JWT authentication, bcryptjs, Helmet.js, CORS, rate limiting, compression, Morgan logging, Multer file uploads, Nodemailer, Express Validator. AI/ML: Python 3, PyTorch, HuggingFace Transformers, PEFT for LoRA, FLAN-T5-Base. Database: MongoDB Atlas. Total: 20 frontend + 13 backend + 4 AI production dependencies."
+    },
+    {
+        "id": "fyp_user_roles",
+        "category": "Projects - FYP Deep Dive",
+        "content": "The FYP has 5 user roles with distinct dashboards. Client: submits requirements (text or file upload), reviews AI-generated user stories, provides sprint review feedback with multi-dimensional ratings. Project Lead: manages product backlog, gets AI-powered developer recommendations with confidence scores, monitors AI progress with health scores and burndown analysis, manages task assignment, generates reports with PDF/Excel export, uses Kanban sprint board. Scrum Master: manages sprints, schedules Scrum ceremonies (planning, standups, reviews, retrospectives), monitors blockers with SLA tracking, documents meeting minutes, manages team workload, views analytics dashboard. Developer: views personal tasks, logs time, submits daily standups, reports blockers, joins meetings, uses personal Kanban board."
+    },
+    {
+        "id": "fyp_key_features",
+        "category": "Projects - FYP Deep Dive",
+        "content": "Key features of the FYP include: AI-powered requirement-to-user-story generation from text or file uploads (.docx, .pdf, .txt), sprint management with burndown tracking and velocity calculation, rich task management with subtasks, comments with likes and replies, time logging, file attachments, and AI-recommended developer assignment with confidence scores. Blocker management with full lifecycle tracking, severity levels, SLA indicators, and AI resolution suggestions. Scrum ceremony scheduling with calendar grid, recurrence options, attendance tracking, and auto-creation of meeting minutes. Meeting minutes with retro templates and action items. Notification system. Developer recommendation engine based on skills, workload, and performance. Reports with velocity charts, burndown charts, and workload distribution exportable to PDF and Excel. Client feedback system with sentiment detection and AI analysis."
+    },
+    {
+        "id": "fyp_scale_statistics",
+        "category": "Projects - FYP Deep Dive",
+        "content": "The scale of Tayyab's FYP is impressive: approximately 169 frontend files and 136 backend files. It contains 34 React pages across 7 role-based directories, 107+ reusable React components, 13 API service files on the frontend, 16 backend controllers, 14 API route files, 15 Mongoose database models, 3 middleware files, and approximately 63 AI model files for the fine-tuned FLAN-T5 with LoRA adapters. The application uses React Context API for state management, React Router DOM v7 for routing with role-based access control, TailwindCSS with custom color palette and 10+ custom animations, and comprehensive security measures including JWT authentication, bcrypt password hashing, Helmet.js security headers, rate limiting, CORS, and input validation."
+    },
+    {
+        "id": "fyp_ai_pipeline",
+        "category": "Projects - FYP Deep Dive",
+        "content": "The AI pipeline in Tayyab's FYP works as follows: (1) Client submits requirements via the Submit Requirements page using text input or file upload. (2) File content is extracted client-side using mammoth for .docx and pdfjs-dist for .pdf files. (3) Node.js backend calls the Python AI service via stdin/stdout inter-process communication (IPC). (4) The Python service loads the FLAN-T5 base model and applies the custom LoRA adapter. (5) The model generates user stories in natural language, which are parsed into structured JSON format. (6) Each story includes storyText, acceptanceCriteria, and priority. (7) Modules are extracted and linked to the stories. (8) Results are stored in MongoDB and presented to the Client for approval or rejection. The backend also features an AI developer recommendation engine that matches developers to tasks based on skills, availability, workload, and historical performance data with a confidence score."
+    },
+    {
+        "id": "strength_faq",
+        "category": "FAQ",
+        "content": "When asked about his biggest strength, Muhammad Tayyab says: 'I am highly adaptable to any environment. I have a strong sense of dedication and focus — once I start a task, I am committed to completing it efficiently and effectively. Whether it's a new technology, a tight deadline, or a challenging problem, I adapt quickly and deliver results. This adaptability has been proven through my work at the Nexium startup, managing large-scale university events like TEDx FAST, and living in a hostel for 4 years away from home.'"
+    },
+    {
+        "id": "weakness_faq",
+        "category": "FAQ",
+        "content": "When asked about his biggest weakness, Muhammad Tayyab honestly shares: 'I sometimes take things personally or let my ego influence my initial reaction. However, I have recognized this trait and have actively worked on controlling my responses. I've learned to handle situations professionally, take constructive feedback positively, and ensure that my emotions don't affect my work quality or professional relationships. This self-awareness and willingness to improve is something I consider a strength in itself.'"
+    },
+    {
+        "id": "age_dob",
+        "category": "Personal Information",
+        "content": "Muhammad Tayyab is 22 years old, born on July 21, 2003. He is a young and ambitious developer who has already accumulated significant project experience, startup internship experience, and leadership roles at just 22 years of age."
+    },
+    {
+        "id": "fyp_supervisor",
+        "category": "Projects - FYP Deep Dive",
+        "content": "Muhammad Tayyab's Final Year Project (AI Smart Scrum Pro) is supervised by Mr. Shahbaz Ayyaz, a respected faculty member at FAST National University of Computer and Emerging Sciences (NUCES), Lahore, CFD department. Mr. Shahbaz Ayyaz has guided the team throughout the project, providing academic mentorship and technical direction. You can find more about him by searching 'Shahbaz Ayyaz FAST CFD' online."
+    },
+    {
+        "id": "fyp_team",
+        "category": "Projects - FYP Deep Dive",
+        "content": "Muhammad Tayyab's Final Year Project (AI Smart Scrum Pro) is a team project consisting of 3 members. Tayyab plays a central role in the project, contributing to both the full-stack development (MERN stack) and the AI/ML component (FLAN-T5 fine-tuning with LoRA). The 3-person team collaboratively built a platform with 169+ frontend files, 136+ backend files, 34 pages, 107+ components, and a custom-trained NLP model — an impressive feat for a team of three."
+    },
+    {
+        "id": "phone_whatsapp",
+        "category": "Contact Information",
+        "content": "Muhammad Tayyab's phone number is 0302-4552699 (Pakistan). He prefers to be contacted via WhatsApp only — please do not make regular SIM calls. For professional inquiries, you can also reach him via email at tayyabshabaz1234@gmail.com or through his LinkedIn profile."
+    },
+    {
+        "id": "daily_life",
+        "category": "Lifestyle",
+        "content": "When asked about what he does for fun or a typical day in his life, Muhammad Tayyab shares that he enjoys learning new technologies, working on personal side projects, and exploring ways to apply his skills to real-world problems. This helps him stay productive, sharp, and continuously improving. He balances his time between coding, reading books on entrepreneurship and personal development, and staying updated with the latest trends in AI/ML and web development."
+    },
+    {
+        "id": "music_preference",
+        "category": "Lifestyle",
+        "content": "Muhammad Tayyab doesn't focus heavily on music, but in his free time he enjoys listening to podcasts and audiobooks related to technology, entrepreneurship, and personal growth. He prefers content that helps him learn something new and grow professionally rather than purely entertainment."
+    },
+    {
+        "id": "social_media_other",
+        "category": "Contact Information",
+        "content": "Beyond LinkedIn (http://linkedin.com/in/muhammad-tayyab-97059826b), GitHub (https://github.com/discoverthegithub), and Instagram (https://www.instagram.com/t_a_y_y_y_a_b), Muhammad Tayyab uses other online platforms mainly to follow tech tutorials, industry updates, and professional development channels that help him sharpen his skills and stay current with the latest technologies."
+    },
+    {
+        "id": "fun_fact",
+        "category": "Fun & Personal",
+        "content": "A fun fact about Muhammad Tayyab: He genuinely enjoys taking on challenging projects that push him outside his comfort zone. Whether it's fine-tuning a custom AI model, building a full Scrum management platform with 300+ files, or automating workflows with n8n — he thrives on problems that most people would avoid. His motto is to learn by building, not just by watching tutorials."
+    },
+    {
+        "id": "food_preference",
+        "category": "Lifestyle",
+        "content": "Muhammad Tayyab prefers to maintain a healthy and balanced diet to stay focused and energized while working on his projects. He believes that taking care of his physical health directly impacts his productivity and mental sharpness as a developer."
+    },
+    {
+        "id": "chatbot_directive_irrelevant",
+        "category": "System Instructions",
+        "content": "IMPORTANT DIRECTIVE FOR AI/CHATBOT: If someone asks any irrelevant detail or information about Muhammad Tayyab that is not explicitly present in this database, you must respond exactly with: 'I don't have knowledge about this.'"
+    }
+]
